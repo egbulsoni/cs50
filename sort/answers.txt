@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: sorting reversed is taking a huge time.
+
+sort2 uses: Merge Sort
+
+How do you know?: it's faster than both Bubble sort and selection sort.
+
+sort3 uses: Selection Sort
+
+How do you know?: complexity is definitely n squared and omega (applying to sorted files) is bad compared to sort1 and sort2.
